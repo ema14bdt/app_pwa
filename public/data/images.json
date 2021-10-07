@@ -1,0 +1,122 @@
+[
+    {
+        "id" : 1,
+        "lastName": "Alonso",
+        "image": "Alonso.jpg",
+        "src": "/data/carousel/Alonso.jpg"
+    },
+    {
+        "id" : 2,
+        "lastName": "Bottas",
+        "image": "Bottas.jpg",
+        "src": "/data/carousel/Bottas.jpg"
+    },
+    {
+        "id" : 3,
+        "lastName": "Gasly",
+        "image": "Gasly.jpg",
+        "src": "/data/carousel/Gasly.jpg"
+    },
+    {
+        "id" : 4,
+        "lastName": "Giovinazzi",
+        "image": "Giovinazzi.jpg",
+        "src": "/data/carousel/Giovinazzi.jpg"
+    },
+    {
+        "id" : 5,
+        "lastName": "Hamilton",
+        "image": "Hamilton.jpg",
+        "src": "/data/carousel/Hamilton.jpg"
+    },
+    {
+        "id" : 6,
+        "lastName": "Latifi",
+        "image": "Latifi.jpg",
+        "src": "/data/carousel/Latifi.jpg"
+    },
+    {
+        "id" : 7,
+        "lastName": "Leclerc",
+        "image": "Leclerc.jpg",
+        "src": "/data/carousel/Leclerc.jpg"
+    },
+    {
+        "id" : 8,
+        "lastName": "Mazepin",
+        "image": "Mazepin.jpg",
+        "src": "/data/carousel/Mazepin.jpg"
+    },
+    {
+        "id" : 9,
+        "lastName": "Norris",
+        "image": "Norris.jpg",
+        "src": "/data/carousel/Norris.jpg"
+    },
+    {
+        "id" : 10,
+        "lastName": "Ocon",
+        "image": "Ocon.jpg",
+        "src": "/data/carousel/Ocon.jpg"
+    },
+    {
+        "id" : 11,
+        "lastName": "Perez",
+        "image": "Perez.jpg",
+        "src": "/data/carousel/Perez.jpg"
+    },
+    {
+        "id" : 12,
+        "lastName": "Raikkonen",
+        "image": "Raikkonen.jpg",
+        "src": "/data/carousel/Raikkonen.jpg"
+    },
+    {
+        "id" : 13,
+        "lastName": "Ricciardo",
+        "image": "Ricciardo.jpg",
+        "src": "/data/carousel/Ricciardo.jpg"
+    },
+    {
+        "id" : 14,
+        "lastName": "Russell",
+        "image": "Russell.jpg",
+        "src": "/data/carousel/Russell.jpg"
+    },
+    {
+        "id" : 15,
+        "lastName": "Sainz",
+        "image": "Sainz.jpg",
+        "src": "/data/carousel/Sainz.jpg"
+    },
+    {
+        "id" : 16,
+        "lastName": "Schumacher",
+        "image": "Schumacher.jpg",
+        "src": "/data/carousel/Schumacher.jpg"
+    },
+    {
+        "id" : 17,
+        "lastName": "Stroll",
+        "image": "Stroll.jpg",
+        "src": "/data/carousel/Stroll.jpg"
+    },
+    {
+        "id" : 18,
+        "lastName": "Tsunoda",
+        "image": "Tsunoda.jpg",
+        "src": "/data/carousel/Tsunoda.jpg"
+    },
+    {
+        "id" : 19,
+        "lastName": "Verstappen",
+        "image": "Verstappen.jpg",
+        "src": "/data/carousel/Verstappen.jpg"
+    },
+    {
+        "id" : 20,
+        "lastName": "Vettel",
+        "image": "Vettel.jpg",
+        "src": "/data/carousel/Vettel.jpg"
+    }
+]

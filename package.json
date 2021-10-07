@@ -1,0 +1,14 @@
+{
+  "name": "app-pwa-c",
+  "version": "1.0.0",
+  "description": "Crear una aplicaión web, que sea responsive y además que sea PWA, en el cual consultes una API ( Creada por usted mismo ), en donde puedas consultar un arreglo de imágenes y mostrarlas en un carrusel de imágenes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

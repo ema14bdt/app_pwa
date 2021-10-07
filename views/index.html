@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Enunciado Decimo</title>
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <meta name="theme-color" content="#f7f4f1" />
+        <meta name="MobileOptimized" content="width" />
+        <meta name="HandheldFriendly" content="true" />
+
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="manifest" href="/manifest.json" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
+        <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet" />
+        <link rel="stylesheet" href="css/style.css" />
+    </head>
+
+    <header>
+        <h1>Enunciado Decimo</h1>
+        <p>
+            Crear una aplicación web, que sea responsive y además que sea PWA, en el cual consultes una API ( Creada por usted mismo ), en donde puedas
+            consultar un arreglo de imágenes y mostrarlas en un carrusel de imágenes.
+        </p>
+    </header>
+
+    <div>
+        <img class="f1" src="/favicon-96x96.png" alt="f1" />
+    </div>
+
+    <body>
+        <div class="wrapper">
+            <div class="carousel-wrapper loading">
+                <div class="carousel-container">
+                    <div class="carousel-slider"></div>
+                </div>
+
+                <div class="controls">
+                    <div class="controls-arrows">
+                        <div class="controls-left">
+                            <button class="go-previous">
+                                <i class="fas fa-arrow-left"></i>
+                            </button>
+                        </div>
+                        <div class="controls-right">
+                            <button class="go-next">
+                                <i class="fas fa-arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="controls-pager"></div>
+                </div>
+
+                <div class="carousel-loading loading">
+                    <i class="fas fa-spinner fa-pulse"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="pwa-popup">
+            Instalar app en celular
+            <button>Instalar</button>
+        </div>
+        <script src="js/main.js"></script>
+        <script src="js/script.js"></script>
+        <script src="js/pwa.js"></script>
+    </body>
+</html>
